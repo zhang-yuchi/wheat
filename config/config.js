@@ -5,7 +5,7 @@ module.exports = {
     host:"localhost",
     port:3306,
     user:'root',
-    password:"admin"
+    password:""
 },
   security:{
     secretKey:"abcdefg",//密钥,用于token加密
